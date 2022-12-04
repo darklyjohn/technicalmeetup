@@ -13,12 +13,12 @@ public class Stack {
     public void push(int value){}
 
     // Récupére la valeur sur le dessus de pile et l’enlève de la pile
-    public Integer pop(){
-        return null;
+    public int pop(){
+        return -1;
     }
 
     // Récupére la taille de pile
-    public Integer count(){
-        return null;
+    public int count(){
+        return -1;
     }
 }
